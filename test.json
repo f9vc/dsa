@@ -1,1 +1,9 @@
-x
+{
+    "url": "https://raw.githubusercontent.com/f9vc/dsa/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/f9vc/dsa/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
